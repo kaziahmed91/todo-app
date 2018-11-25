@@ -1,0 +1,7 @@
+export const ADD_ITEM = 'ADD_ITEM'
+export const TOGGLE_ITEM = 'TOGGLE_ITEM'
+export const REMOVE_ITEM = 'REMOVE_ITEM'
+export const SHOW_ALL = 'SHOW_ALL'
+export const SHOW_COMPLETED = 'SHOW_COMPLETED'
+export const SHOW_ACTIVE = 'SHOW_ACTIVE'
+export const SET_VISIBILITY_FILTER = 'SET_VISIBILITY_FILTER'

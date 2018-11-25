@@ -7,6 +7,25 @@
   height: 40vmin;
 }
 
+.container {
+  margin: 0 auto;
+  max-width:500px;
+}
+.divider {
+  margin-top:5px;
+  margin-bottom: 5px;
+}
+
+.checkbox {
+  margin-right: 20px;
+}
+
+.list-item {
+  display: flex;
+  align-items: center;
+}
+
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
